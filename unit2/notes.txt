@@ -1,0 +1,64 @@
+
+how to map what a programmer does to what's going on in machine
+	multicore, caching, 
+	
+
+
+
+Applications of Symmetric Ciphers
+=================================
+
+[ Recap ]
+
+Unit 1 we learned about symmetric ciphers; for the rest of the course,
+we are nearly always going to view our symmetric ciphers are a black
+boxes that provide encrypt and descrypt functions.
+
+We assume:
+
+   k   -> c
+   m 
+
+k is randomly selected from |K|.
+
+Generating Keys
+===============
+ 
+Randomness
+
+
+physically random events
+
+/dev/random
+
+
+Pseudo-Random Number Generation: Algorithms for Producing "Random"
+Numbers
+
+"Anyone who considers arithmetical methods of producing random digits
+is, of course, in a state of sin." - John von Neumann
+
+
+
+unpredictability: 
+   For numbers in range 0...2^n-1, an observer with the first m - 1
+   numbers, cannot guess the mth with probability better than 1/2^n.
+
+
+
+
+Sending Messages
+================
+
+
+
+cipher modes
+
+
+hash functions
+
+
+encrypting passwords
+
+merkle trees
+

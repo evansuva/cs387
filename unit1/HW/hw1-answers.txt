@@ -1,0 +1,8 @@
+1. 0.38
+2. 0.34
+3. 0.32
+4. 
+   [ answer: Y XOR N = 0010111 - so send c XOR 0010111 = 1011001 ]
+5. [ 19 ]
+6. [ accept any string with two repeated letters ]
+7. [ 300 ]

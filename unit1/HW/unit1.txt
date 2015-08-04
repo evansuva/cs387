@@ -1,0 +1,21 @@
+Unit 1 Homework
+
+[ Regular Questions ]
+
+1. Consider the set of possible outcomes of drawing a card from a deck
+of 52 cards (4 
+
+
+
+2. perfect cipher
+
+3. monoalphabetic cipher
+
+4. implement a one-time pad
+
+[ Starred Questions ]
+
+4. breaking a two-time pad
+
+5. breaking a lorenz-encrypted message
+
